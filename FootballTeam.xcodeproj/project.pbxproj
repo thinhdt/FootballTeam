@@ -30,7 +30,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		04A1B0741B57956C00C0E0E7 /* FootbalTeam.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = FootbalTeam.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		04A1B0741B57956C00C0E0E7 /* FootballTeam.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = FootballTeam.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		04A1B0781B57956C00C0E0E7 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		04A1B0791B57956C00C0E0E7 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
 		04A1B07B1B57956C00C0E0E7 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
@@ -40,7 +40,7 @@
 		04A1B0821B57956C00C0E0E7 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		04A1B0841B57956C00C0E0E7 /* Images.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Images.xcassets; sourceTree = "<group>"; };
 		04A1B0871B57956C00C0E0E7 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = Base; path = Base.lproj/LaunchScreen.xib; sourceTree = "<group>"; };
-		04A1B08D1B57956D00C0E0E7 /* FootbalTeamTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = FootbalTeamTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		04A1B08D1B57956D00C0E0E7 /* FootballTeamTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = FootballTeamTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		04A1B0921B57956D00C0E0E7 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		04A1B0931B57956D00C0E0E7 /* FootbalTeamTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = FootbalTeamTests.m; sourceTree = "<group>"; };
 		04A1B09F1B5795FB00C0E0E7 /* football.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; name = football.plist; path = ../football.plist; sourceTree = "<group>"; };
@@ -79,8 +79,8 @@
 		04A1B0751B57956C00C0E0E7 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				04A1B0741B57956C00C0E0E7 /* FootbalTeam.app */,
-				04A1B08D1B57956D00C0E0E7 /* FootbalTeamTests.xctest */,
+				04A1B0741B57956C00C0E0E7 /* FootballTeam.app */,
+				04A1B08D1B57956D00C0E0E7 /* FootballTeamTests.xctest */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -133,9 +133,9 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		04A1B0731B57956C00C0E0E7 /* FootbalTeam */ = {
+		04A1B0731B57956C00C0E0E7 /* FootballTeam */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 04A1B0971B57956D00C0E0E7 /* Build configuration list for PBXNativeTarget "FootbalTeam" */;
+			buildConfigurationList = 04A1B0971B57956D00C0E0E7 /* Build configuration list for PBXNativeTarget "FootballTeam" */;
 			buildPhases = (
 				04A1B0701B57956C00C0E0E7 /* Sources */,
 				04A1B0711B57956C00C0E0E7 /* Frameworks */,
@@ -145,14 +145,14 @@
 			);
 			dependencies = (
 			);
-			name = FootbalTeam;
+			name = FootballTeam;
 			productName = FootbalTeam;
-			productReference = 04A1B0741B57956C00C0E0E7 /* FootbalTeam.app */;
+			productReference = 04A1B0741B57956C00C0E0E7 /* FootballTeam.app */;
 			productType = "com.apple.product-type.application";
 		};
-		04A1B08C1B57956D00C0E0E7 /* FootbalTeamTests */ = {
+		04A1B08C1B57956D00C0E0E7 /* FootballTeamTests */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 04A1B09A1B57956D00C0E0E7 /* Build configuration list for PBXNativeTarget "FootbalTeamTests" */;
+			buildConfigurationList = 04A1B09A1B57956D00C0E0E7 /* Build configuration list for PBXNativeTarget "FootballTeamTests" */;
 			buildPhases = (
 				04A1B0891B57956D00C0E0E7 /* Sources */,
 				04A1B08A1B57956D00C0E0E7 /* Frameworks */,
@@ -163,9 +163,9 @@
 			dependencies = (
 				04A1B08F1B57956D00C0E0E7 /* PBXTargetDependency */,
 			);
-			name = FootbalTeamTests;
+			name = FootballTeamTests;
 			productName = FootbalTeamTests;
-			productReference = 04A1B08D1B57956D00C0E0E7 /* FootbalTeamTests.xctest */;
+			productReference = 04A1B08D1B57956D00C0E0E7 /* FootballTeamTests.xctest */;
 			productType = "com.apple.product-type.bundle.unit-test";
 		};
 /* End PBXNativeTarget section */
@@ -186,7 +186,7 @@
 					};
 				};
 			};
-			buildConfigurationList = 04A1B06F1B57956C00C0E0E7 /* Build configuration list for PBXProject "FootbalTeam" */;
+			buildConfigurationList = 04A1B06F1B57956C00C0E0E7 /* Build configuration list for PBXProject "FootballTeam" */;
 			compatibilityVersion = "Xcode 3.2";
 			developmentRegion = English;
 			hasScannedForEncodings = 0;
@@ -199,8 +199,8 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				04A1B0731B57956C00C0E0E7 /* FootbalTeam */,
-				04A1B08C1B57956D00C0E0E7 /* FootbalTeamTests */,
+				04A1B0731B57956C00C0E0E7 /* FootballTeam */,
+				04A1B08C1B57956D00C0E0E7 /* FootballTeamTests */,
 			);
 		};
 /* End PBXProject section */
@@ -252,7 +252,7 @@
 /* Begin PBXTargetDependency section */
 		04A1B08F1B57956D00C0E0E7 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			target = 04A1B0731B57956C00C0E0E7 /* FootbalTeam */;
+			target = 04A1B0731B57956C00C0E0E7 /* FootballTeam */;
 			targetProxy = 04A1B08E1B57956D00C0E0E7 /* PBXContainerItemProxy */;
 		};
 /* End PBXTargetDependency section */
@@ -365,7 +365,7 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				INFOPLIST_FILE = FootbalTeam/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_NAME = "$(TARGET_NAME)";
+				PRODUCT_NAME = FootballTeam;
 			};
 			name = Debug;
 		};
@@ -375,7 +375,7 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				INFOPLIST_FILE = FootbalTeam/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_NAME = "$(TARGET_NAME)";
+				PRODUCT_NAME = FootballTeam;
 			};
 			name = Release;
 		};
@@ -393,7 +393,7 @@
 				);
 				INFOPLIST_FILE = FootbalTeamTests/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
-				PRODUCT_NAME = "$(TARGET_NAME)";
+				PRODUCT_NAME = FootballTeamTests;
 				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/FootbalTeam.app/FootbalTeam";
 			};
 			name = Debug;
@@ -408,7 +408,7 @@
 				);
 				INFOPLIST_FILE = FootbalTeamTests/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
-				PRODUCT_NAME = "$(TARGET_NAME)";
+				PRODUCT_NAME = FootballTeamTests;
 				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/FootbalTeam.app/FootbalTeam";
 			};
 			name = Release;
@@ -416,7 +416,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		04A1B06F1B57956C00C0E0E7 /* Build configuration list for PBXProject "FootbalTeam" */ = {
+		04A1B06F1B57956C00C0E0E7 /* Build configuration list for PBXProject "FootballTeam" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				04A1B0951B57956D00C0E0E7 /* Debug */,
@@ -425,7 +425,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		04A1B0971B57956D00C0E0E7 /* Build configuration list for PBXNativeTarget "FootbalTeam" */ = {
+		04A1B0971B57956D00C0E0E7 /* Build configuration list for PBXNativeTarget "FootballTeam" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				04A1B0981B57956D00C0E0E7 /* Debug */,
@@ -434,7 +434,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		04A1B09A1B57956D00C0E0E7 /* Build configuration list for PBXNativeTarget "FootbalTeamTests" */ = {
+		04A1B09A1B57956D00C0E0E7 /* Build configuration list for PBXNativeTarget "FootballTeamTests" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				04A1B09B1B57956D00C0E0E7 /* Debug */,

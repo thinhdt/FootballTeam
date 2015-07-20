@@ -15,9 +15,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "04A1B0731B57956C00C0E0E7"
-               BuildableName = "FootbalTeam.app"
-               BlueprintName = "FootbalTeam"
-               ReferencedContainer = "container:FootbalTeam.xcodeproj">
+               BuildableName = "FootballTeam.app"
+               BlueprintName = "FootballTeam"
+               ReferencedContainer = "container:FootballTeam.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
          <BuildActionEntry
@@ -29,9 +29,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "04A1B08C1B57956D00C0E0E7"
-               BuildableName = "FootbalTeamTests.xctest"
-               BlueprintName = "FootbalTeamTests"
-               ReferencedContainer = "container:FootbalTeam.xcodeproj">
+               BuildableName = "FootballTeamTests.xctest"
+               BlueprintName = "FootballTeamTests"
+               ReferencedContainer = "container:FootballTeam.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -47,9 +47,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "04A1B08C1B57956D00C0E0E7"
-               BuildableName = "FootbalTeamTests.xctest"
-               BlueprintName = "FootbalTeamTests"
-               ReferencedContainer = "container:FootbalTeam.xcodeproj">
+               BuildableName = "FootballTeamTests.xctest"
+               BlueprintName = "FootballTeamTests"
+               ReferencedContainer = "container:FootballTeam.xcodeproj">
             </BuildableReference>
          </TestableReference>
       </Testables>
@@ -57,9 +57,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "04A1B0731B57956C00C0E0E7"
-            BuildableName = "FootbalTeam.app"
-            BlueprintName = "FootbalTeam"
-            ReferencedContainer = "container:FootbalTeam.xcodeproj">
+            BuildableName = "FootballTeam.app"
+            BlueprintName = "FootballTeam"
+            ReferencedContainer = "container:FootballTeam.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
    </TestAction>
@@ -77,9 +77,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "04A1B0731B57956C00C0E0E7"
-            BuildableName = "FootbalTeam.app"
-            BlueprintName = "FootbalTeam"
-            ReferencedContainer = "container:FootbalTeam.xcodeproj">
+            BuildableName = "FootballTeam.app"
+            BlueprintName = "FootballTeam"
+            ReferencedContainer = "container:FootballTeam.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
       <AdditionalOptions>
@@ -96,9 +96,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "04A1B0731B57956C00C0E0E7"
-            BuildableName = "FootbalTeam.app"
-            BlueprintName = "FootbalTeam"
-            ReferencedContainer = "container:FootbalTeam.xcodeproj">
+            BuildableName = "FootballTeam.app"
+            BlueprintName = "FootballTeam"
+            ReferencedContainer = "container:FootballTeam.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>
