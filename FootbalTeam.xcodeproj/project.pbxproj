@@ -14,6 +14,9 @@
 		04A1B0851B57956C00C0E0E7 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 04A1B0841B57956C00C0E0E7 /* Images.xcassets */; };
 		04A1B0881B57956C00C0E0E7 /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = 04A1B0861B57956C00C0E0E7 /* LaunchScreen.xib */; };
 		04A1B0941B57956D00C0E0E7 /* FootbalTeamTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 04A1B0931B57956D00C0E0E7 /* FootbalTeamTests.m */; };
+		04A1B0A01B5795FB00C0E0E7 /* football.plist in Resources */ = {isa = PBXBuildFile; fileRef = 04A1B09F1B5795FB00C0E0E7 /* football.plist */; };
+		04A1B0A61B57A69600C0E0E7 /* NSArray+ExtendsArray.m in Sources */ = {isa = PBXBuildFile; fileRef = 04A1B0A51B57A69600C0E0E7 /* NSArray+ExtendsArray.m */; };
+		04F849F01B5C9747001EA0A5 /* team.plist in Resources */ = {isa = PBXBuildFile; fileRef = 04F849EF1B5C9747001EA0A5 /* team.plist */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -40,6 +43,10 @@
 		04A1B08D1B57956D00C0E0E7 /* FootbalTeamTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = FootbalTeamTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		04A1B0921B57956D00C0E0E7 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		04A1B0931B57956D00C0E0E7 /* FootbalTeamTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = FootbalTeamTests.m; sourceTree = "<group>"; };
+		04A1B09F1B5795FB00C0E0E7 /* football.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; name = football.plist; path = ../football.plist; sourceTree = "<group>"; };
+		04A1B0A41B57A69600C0E0E7 /* NSArray+ExtendsArray.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "NSArray+ExtendsArray.h"; sourceTree = "<group>"; };
+		04A1B0A51B57A69600C0E0E7 /* NSArray+ExtendsArray.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "NSArray+ExtendsArray.m"; sourceTree = "<group>"; };
+		04F849EF1B5C9747001EA0A5 /* team.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = team.plist; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -81,6 +88,7 @@
 		04A1B0761B57956C00C0E0E7 /* FootbalTeam */ = {
 			isa = PBXGroup;
 			children = (
+				04F849EF1B5C9747001EA0A5 /* team.plist */,
 				04A1B07B1B57956C00C0E0E7 /* AppDelegate.h */,
 				04A1B07C1B57956C00C0E0E7 /* AppDelegate.m */,
 				04A1B07E1B57956C00C0E0E7 /* ViewController.h */,
@@ -88,7 +96,10 @@
 				04A1B0811B57956C00C0E0E7 /* Main.storyboard */,
 				04A1B0841B57956C00C0E0E7 /* Images.xcassets */,
 				04A1B0861B57956C00C0E0E7 /* LaunchScreen.xib */,
+				04A1B09F1B5795FB00C0E0E7 /* football.plist */,
 				04A1B0771B57956C00C0E0E7 /* Supporting Files */,
+				04A1B0A41B57A69600C0E0E7 /* NSArray+ExtendsArray.h */,
+				04A1B0A51B57A69600C0E0E7 /* NSArray+ExtendsArray.m */,
 			);
 			path = FootbalTeam;
 			sourceTree = "<group>";
@@ -200,8 +211,10 @@
 			buildActionMask = 2147483647;
 			files = (
 				04A1B0831B57956C00C0E0E7 /* Main.storyboard in Resources */,
+				04F849F01B5C9747001EA0A5 /* team.plist in Resources */,
 				04A1B0881B57956C00C0E0E7 /* LaunchScreen.xib in Resources */,
 				04A1B0851B57956C00C0E0E7 /* Images.xcassets in Resources */,
+				04A1B0A01B5795FB00C0E0E7 /* football.plist in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -221,6 +234,7 @@
 			files = (
 				04A1B0801B57956C00C0E0E7 /* ViewController.m in Sources */,
 				04A1B07D1B57956C00C0E0E7 /* AppDelegate.m in Sources */,
+				04A1B0A61B57A69600C0E0E7 /* NSArray+ExtendsArray.m in Sources */,
 				04A1B07A1B57956C00C0E0E7 /* main.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -418,6 +432,7 @@
 				04A1B0991B57956D00C0E0E7 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		04A1B09A1B57956D00C0E0E7 /* Build configuration list for PBXNativeTarget "FootbalTeamTests" */ = {
 			isa = XCConfigurationList;
@@ -426,6 +441,7 @@
 				04A1B09C1B57956D00C0E0E7 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};

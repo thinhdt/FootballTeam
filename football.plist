@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>country</key>
+		<string>GK</string>
+		<key>name</key>
+		<string>Marc-André ter Stegen</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Gerard Piqué</string>
+		<key>country</key>
+		<string>DF</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Ivan Rakitić</string>
+		<key>country</key>
+		<string>MF</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Sergio Busquets</string>
+		<key>country</key>
+		<string>MF</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Pedro Rodríguez</string>
+		<key>country</key>
+		<string>FW</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Pedro Rodríguez</string>
+		<key>country</key>
+		<string>FW</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Andrés Iniesta </string>
+		<key>country</key>
+		<string>MF</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Luis Suárez</string>
+		<key>country</key>
+		<string>FW</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Lionel Messi </string>
+		<key>country</key>
+		<string>FW</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Neymar</string>
+		<key>country</key>
+		<string>FW</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Rafinha</string>
+		<key>country</key>
+		<string>MF</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Claudio Bravo</string>
+		<key>country</key>
+		<string>GK</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Javier Mascherano</string>
+		<key>country</key>
+		<string>MF</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Marc Bartra</string>
+		<key>country</key>
+		<string>DF</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Douglas</string>
+		<key>country</key>
+		<string>DF</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Jordi Alba</string>
+		<key>country</key>
+		<string>DF</string>
+	</dict>
+</array>
+</plist>
